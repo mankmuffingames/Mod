@@ -1,0 +1,3 @@
+author = Mank
+version = 0.1
+displayName = MixedForgery
